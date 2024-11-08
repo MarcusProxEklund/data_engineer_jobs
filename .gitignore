@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .pytest_cache/
 självutvärdering.markdown
+data_viewer_screenshot.png
