@@ -7,6 +7,8 @@ The data gets pulled using the Swedish Employment Agencys API, gets transformed 
 The data_viewer displays a table using tkinter showing title, company, location, application deadline, webpage and description.
 The urls in the webpage columns are clickable links to the joblisting.
 
+![data viewer](data_viewer_screenshot.png)
+
 ## Usage
 
 Run the <code>main.py</code> file to gather and store the data.  
