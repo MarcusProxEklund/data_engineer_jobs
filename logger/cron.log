@@ -1,0 +1,8 @@
+[2024-11-08 00:00:02,020][INFO] Starting the data collection and export process
+[2024-11-08 00:00:02,020][INFO] Fetching Data Engineer job ads from Arbetsförmedlingen API
+[2024-11-08 00:00:02,558][INFO] Successfully fetched 50 job ads
+[2024-11-08 00:00:02,559][INFO] Transforming the data into a pandas DataFrame
+[2024-11-08 00:00:02,567][INFO] Data transformation complete
+[2024-11-08 00:00:02,567][INFO] Exporting data to SQLite database: data_engineer_jobs.db
+[2024-11-08 00:00:02,612][INFO] Data successfully exported to SQLite database
+[2024-11-08 00:00:02,612][INFO] Data collection and export process completed successfully

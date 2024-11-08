@@ -1,0 +1,24 @@
+[2024-11-07 21:18:55,561][INFO] Starting the data collection and export process
+[2024-11-07 21:18:55,562][INFO] Fetching Data Engineer job ads from Arbetsförmedlingen API
+[2024-11-07 21:18:56,126][INFO] Successfully fetched 50 job ads
+[2024-11-07 21:18:56,127][INFO] Transforming the data into a pandas DataFrame
+[2024-11-07 21:18:56,132][INFO] Data transformation complete
+[2024-11-07 21:18:56,132][INFO] Exporting data to SQLite database: data_engineer_jobs.db
+[2024-11-07 21:18:56,179][INFO] Data successfully exported to SQLite database
+[2024-11-07 21:18:56,180][INFO] Data collection and export process completed successfully
+[2024-11-07 22:25:53,904][INFO] Starting the data collection and export process
+[2024-11-07 22:25:53,905][INFO] Fetching Data Engineer job ads from Arbetsförmedlingen API
+[2024-11-07 22:25:54,455][INFO] Successfully fetched 50 job ads
+[2024-11-07 22:25:54,455][INFO] Transforming the data into a pandas DataFrame
+[2024-11-07 22:25:54,467][INFO] Data transformation complete
+[2024-11-07 22:25:54,468][INFO] Exporting data to SQLite database: data_engineer_jobs.db
+[2024-11-07 22:25:54,514][INFO] Data successfully exported to SQLite database
+[2024-11-07 22:25:54,515][INFO] Data collection and export process completed successfully
+[2024-11-08 00:00:02,020][INFO] Starting the data collection and export process
+[2024-11-08 00:00:02,020][INFO] Fetching Data Engineer job ads from Arbetsförmedlingen API
+[2024-11-08 00:00:02,558][INFO] Successfully fetched 50 job ads
+[2024-11-08 00:00:02,559][INFO] Transforming the data into a pandas DataFrame
+[2024-11-08 00:00:02,567][INFO] Data transformation complete
+[2024-11-08 00:00:02,567][INFO] Exporting data to SQLite database: data_engineer_jobs.db
+[2024-11-08 00:00:02,612][INFO] Data successfully exported to SQLite database
+[2024-11-08 00:00:02,612][INFO] Data collection and export process completed successfully
